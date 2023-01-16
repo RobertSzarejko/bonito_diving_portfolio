@@ -133,3 +133,39 @@ body {
     background-color: #666666;
     border-radius: 15px;
 }
+
+/*  OFFER */
+.offer-header {
+    margin: 15px;
+    padding: 30px;
+
+    height: 100px;
+    background-color: #ee5a32;
+
+    border-radius: 15px;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.offer-header:hover {
+    background-color: #cc4a21;
+}
+
+.offer-header a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.offer-description {
+    min-height: 200px;
+}
+
+.offer-img {
+    margin: 15px;
+    padding: 30px;
+    height: 90%;
+}
