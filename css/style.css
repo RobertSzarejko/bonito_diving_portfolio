@@ -169,3 +169,16 @@ body {
     padding: 30px;
     height: 90%;
 }
+
+/* CONTACT */
+
+.contact-img {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.contact-message {
+    width: 100%;
+    min-height: 300px;
+}
