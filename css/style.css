@@ -114,3 +114,22 @@ body {
         margin: 20px;
     }
 }
+
+
+/* TEAM */
+.yt10{
+    margin: 10px;
+    width: 230px;
+    height: 304px;
+    background-color: #d94348;
+    border-radius: 15px;
+}
+
+
+.yt100{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #666666;
+    border-radius: 15px;
+}
