@@ -1,5 +1,5 @@
 body {
-    background-color: #163c46;
+    background-color: #f5D2AA;
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -13,93 +13,69 @@ body {
 
 .home-img-link {
     width: 100%;
-    height: 100%;
-    padding: 10px 0;
+    height: auto;
+    margin-top: 20px;
     border-radius: 20px;
 }
 
 .messages {
-    margin: 15px;
-    background-color: #666666;
+    margin: 12px;
+    background-color: #2f4c72;
     text-align: justify;
     padding: 30px;
     font-size: 19px;
     border-radius: 15px;
+    width: 100%;
+    height: auto;
 }
 
 
 .logo {
-    font-size: 60px;
-    text-align: left;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 10px;
+    
 }
 
 .logo a {
-    color: #ffffff;
+    color: #2f4c72;
     text-decoration: none;
 }
 
 .logo-img {
-    width: 250px;
+    width: 100%;
 }
 
 .sentences {
-    background-color: #ee5a32;
+    
     text-align: center;
-    font-size: 26px;
-    padding: 40px;
+    font-size: 22px;
+    padding: 10px;
     border-radius: 15px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #2f4c72;
+    font-weight: 600; 
+    
+    margin-left: 15px;
 }
-
-.separate-space {
-    height: 20px;
-}
-
-
 .main-page-links {
 
     height: 100%;
+    
+    
 }
 
 /* social media */
-
-.yt{
-    background-color: #d94348;
-    border-radius: 15px;
-}
-
-.yt:hover {
-    background-color: #c83237;
-}
-
-.fb {
-    background-color: #4668b3;
-    border-radius: 15px;
-}
-.fb:hover {
-    background-color: #3557a2;
-}
-
-.gplus {
-    background-color: #d95333;
-    border-radius: 15px;
-}
-.gplus:hover {
-    background-color: #c84222;
-}
-.tw {
-    background-color: #93c748;
-    border-radius: 15px;
-}
-.tw:hover {
-    background-color: #82b637;
-}
 
 .social-link {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #ffffff;
+    color: #2f4c72;
     height: 100%;
+    margin-right: 30px;
+    
 }
 
 .social-links {
@@ -107,7 +83,7 @@ body {
     width: 95%;
     height: 100%;
     min-height: 120px;
-}
+    }
 
 @media screen and (max-width: 768px) {
     .social-links {
@@ -118,20 +94,28 @@ body {
 
 /* TEAM */
 .yt10{
-    margin: 10px;
-    width: 230px;
-    height: 304px;
+   
+    width: 200px;
+    height: 200px;
     background-color: #d94348;
     border-radius: 15px;
 }
 
 
 .yt100{
-    margin: 10px;
-    width: 230px;
-    height: 142px;
-    background-color: #666666;
+   
+    width: 200px;
+    height: 130px;
     border-radius: 15px;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: left;
+    color: #2f4c72;
+    font-weight: 600;
+    font-size: 12px;
+    
+    
 }
 
 /*  OFFER */
@@ -168,6 +152,7 @@ body {
     margin: 15px;
     padding: 30px;
     height: 90%;
+    
 }
 
 /* CONTACT */
@@ -176,9 +161,34 @@ body {
     margin: 0;
     height: 100%;
     width: 100%;
+    
 }
 
 .contact-message {
     width: 100%;
     min-height: 300px;
+    
 }
+.stopka{
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 20px;
+    text-align: center;
+}
+.jumpers img{
+    width: 100%;
+    height: auto;
+}
+.HHH img{
+    width: 100%;
+    height: auto;
+  
+}
+.HHH {
+   
+    background-color: #cc4a21;
+}
+.card-body{
+    background-color: #cc4a21;
+}
+
