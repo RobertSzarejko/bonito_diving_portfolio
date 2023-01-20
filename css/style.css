@@ -29,21 +29,18 @@ body {
     height: auto;
 }
 
-
 .logo h1 {
     font-size: 55px;
     text-align: center;
     margin-top: 10px;
-    
-    
 }
 
 .logo a {
     color: #2f4c72;
     text-decoration: none;
 }
+
 .sentences {
-    
     text-align: center;
     font-size: 22px;
     padding: 10px;
@@ -51,15 +48,12 @@ body {
     margin-top: 30px;
     margin-bottom: 10px;
     color: #2f4c72;
-    font-weight: 600; 
-    
+    font-weight: 600;
     margin-left: 15px;
 }
-.main-page-links {
 
+.main-page-links {
     height: 100%;
-    
-    
 }
 
 /* social media */
@@ -71,7 +65,6 @@ body {
     color: #2f4c72;
     height: 100%;
     margin-right: 30px;
-    
 }
 
 .social-links {
@@ -79,7 +72,7 @@ body {
     width: 95%;
     height: 100%;
     min-height: 120px;
-    }
+}
 
 @media screen and (max-width: 768px) {
     .social-links {
@@ -87,44 +80,14 @@ body {
     }
 }
 
-
-/* TEAM */
-.yt10{
-   
-    width: 200px;
-    height: 200px;
-    background-color: #d94348;
-    border-radius: 15px;
-}
-
-
-.yt100{
-   
-    width: 200px;
-    height: 130px;
-    border-radius: 15px;
-    padding: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
-    text-align: left;
-    color: #2f4c72;
-    font-weight: 600;
-    font-size: 12px;
-    
-    
-}
-
 /*  OFFER */
 .offer-header {
     margin: 15px;
     padding: 30px;
-
     height: 100px;
     background-color: #ee5a32;
-
     border-radius: 15px;
     color: white;
-
     display: flex;
     align-items: center;
     justify-content: center;
@@ -157,63 +120,52 @@ body {
     margin: 0;
     height: 100%;
     width: 100%;
-    
 }
 
 .contact-message {
     width: 100%;
     min-height: 300px;
-    
 }
-.stopka{
+
+.stopka {
     font-size: 25px;
     font-weight: 500;
     margin-top: 20px;
     text-align: center;
 }
+
 .jumpers img{
     width: 100%;
     height: auto;
 }
 
-.person{
+/* TEAM  */
+
+
+.person {
     width: 270px;
     height: 390px;
-    1background-color: #2f4c72;
     border-radius: 20px;
-    margin: 35px;}
+    margin: 35px;
+}
 
-    
-    .kasia2{
-        margin: 5px;
-        text-align: center;
-        font-size: 13px;
-        margin-top: 10px;
-        font-weight: 600;
-        margin-bottom: 65px;
-        color: #2f4c72;
-    }
+.person-description {
+    margin: 5px 10px 65px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    color: #2f4c72;
+}
 
-    .stopka2{
-        font-size: 25px;
-        font-weight: 500;
-        margin-top: 20px;
-        text-align: center;
-    }
+.team-logo {
+    font-size: 55px;
+    text-align: center;
+    margin-top: 5px;
+}
 
-    .logoteam {
-        font-size: 55px;
-        text-align: center;
-        margin-top: 5px;
-        
-       
-        
-    }
-
-    .logoteam a {
-        color: #2f4c72;
-        text-decoration: none;
-        
-    }
+.team-logo a {
+    color: #2f4c72;
+    text-decoration: none;
+}
 
 
