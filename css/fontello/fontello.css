@@ -62,9 +62,9 @@
 .icon-home:before { content: '\e805'; } /* '' */
 .icon-users-1:before { content: '\f064'; } /* '' */
 .icon-reply:before { content: '\f112';font-size: 55px;  } /* '' */
-.icon-youtube:before { content: '\f167';font-size: 99px; } /* '' */
-.icon-instagram-1:before { content: '\f16d';font-size: 99px;} /* '' */
-.icon-whatsapp:before { content: '\f232';font-size: 75px;} /* '' */
-.icon-tripadvisor:before { content: '\f262';font-size: 75px; } /* '' */
+.icon-youtube:before { content: '\f167';font-size: 55px; } /* '' */
+.icon-instagram-1:before { content: '\f16d';font-size: 55px;} /* '' */
+.icon-whatsapp:before { content: '\f232';font-size: 60px;} /* '' */
+.icon-tripadvisor:before { content: '\f262';font-size: 55px;} /* '' */
 .icon-volume-control-phone:before { content: '\f2a0'; font-size: 75px;} /* '' */
-.icon-facebook-squared:before { content: '\f308';font-size: 85px;} /* '' */
+.icon-facebook-squared:before { content: '\f308';font-size: 55px;} /* '' */

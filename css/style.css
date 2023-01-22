@@ -2,12 +2,13 @@ body {
     background-color: #f5D2AA;
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 56px;
 }
 
 .container {
     margin-left: auto;
     margin-right: auto;
+  
 }
 
 .home-img-link {
@@ -16,12 +17,13 @@ body {
     margin-top: 10px;
     border-radius: 20px;
     background-color: #f5D2AA;
+    
 }
 
 .font{
     font-size: 14px;
     font-weight: 500;
-    text-align: justify;
+    text-align: left;
 }
 
 .home-img-link1 {
@@ -60,16 +62,55 @@ body {
     height: auto;
 }
 
+.messagesteam {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2f4c72;
+    text-align: justify;
+    padding: 25px;
+    font-size: 17px;
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+}
+
+.messagesteam1 {
+    
+
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2f4c72;
+    text-align: center;
+    padding: px;
+    font-size: 16px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+}
+
 .logo h1 {
     font-size: 65px;
     text-align: center;
     margin-top: 10px;
+   
 }
 
 .logo a {
     color: #2f4c72;
     text-decoration: none;
 }
+
+
+
+.logoo a{
+    color: #2f4c72;
+    text-decoration: none;
+    text-align: center;
+    
+}
+    
 
 .sentences {
     text-align: center;
@@ -105,11 +146,12 @@ body {
     min-height: 120px;
 }
 .stopka {
-    font-size: 30px;
+    font-size: 15px;
     font-weight: 500;
-    margin-top: 20px;
+    
     text-align: center;
 }
+
 
 
 
@@ -124,7 +166,7 @@ body {
 }
 
 .team-logo {
-    font-size: 55px;
+    font-size: 48px;
     text-align: center;
     margin-top: 5px;
 }
@@ -133,5 +175,15 @@ body {
     color: #2f4c72;
     text-decoration: none;
 }
+
+.person1{
+   margin-top: 20px;
+   
+}
+.person1 a {
+    color: #2f4c72;
+    text-decoration: none;
+}
+
 
 
