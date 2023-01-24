@@ -10,6 +10,9 @@ body {
     margin-right: auto;
   
 }
+.main{
+    max-width: 1000px;
+}
 
 .home-img-link {
     width: 100%;
@@ -82,7 +85,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     background-color: #2f4c72;
-    text-align: justify;
+    text-align: left;
     padding: 25px;
     font-size: 20px;
     border-radius: 15px;
