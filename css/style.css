@@ -1,5 +1,4 @@
 body {
-    background-color: #f5D2AA;
     color:  #ffffff;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 56px;
@@ -17,16 +16,22 @@ body {
 .home-img-link {
     width: 100%;
     height: auto;
-    margin-top: 10px;
+    margin-top: 20px;
     border-radius: 20px;
-    background-color: #f5D2AA;
+    
     
 }
 
 .font{
-    font-size: 14px;
+    font-size: 10px;
     font-weight: 500;
     text-align: left;
+}
+
+.font2{
+    font-size: 13px;
+    font-weight: 600;
+    text-align: center; 
 }
 
 .home-img-link1 {
@@ -66,15 +71,13 @@ body {
 }
 
 .messagesteam {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: auto;
-    margin-right: auto;
+    
+    
     background-color: #2f4c72;
-    text-align: justify;
-    padding: 25px;
-    font-size: 17px;
-    border-radius: 15px;
+    text-align: center;
+    
+    font-size: 28px;
+    border-radius: 10px;
     width: 100%;
     height: auto;
 }
@@ -101,17 +104,32 @@ body {
     background-color: #2f4c72;
     text-align: center;
     padding: px;
-    font-size: 16px;
+    font-size: 19px;
     border-radius: 8px;
     width: 100%;
     height: auto;
     text-decoration: none;
-    margin-top: 10px;
+    margin-top: 0px;
+}
+
+.messagesteam10{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2f4c72;
+    text-align: center;
+    padding: px;
+    font-size: 28px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 0px;  
 }
 
 .dekoracja{
     text-decoration: none;
     color: #ffffff;
+    font-size: 10px;
 }
 
 
@@ -193,7 +211,7 @@ body {
 }
 
 .team-logo {
-    font-size: 45px;
+    font-size: 49px;
     text-align: center;
     margin-top: 5px;
 }
