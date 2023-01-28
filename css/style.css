@@ -18,10 +18,8 @@ body {
     height: auto;
     margin-top: 10px;
     margin-bottom: 1px;
-    border-radius: 20px;
-    
-    
-}
+    border-radius: 20px;  
+    }
 
 .font{
     font-size: 10px;
@@ -140,6 +138,35 @@ body {
     text-decoration: none;
     margin-top: 0px;  
 }
+
+.messagesteamkontakt{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2f4c72;
+    text-align: center;
+    padding: px;
+    font-size: 28px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 0px;  
+}
+
+.messagesteamkontaktdolny{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2f4c72;
+    text-align: center;
+    padding: px;
+    font-size: 28px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 0px;  
+}
+
 
 .dekoracja{
     text-decoration: none;
@@ -295,6 +322,34 @@ body {
     margin-bottom: 5px;
     border-radius: 20px;
 }
+
+.fotakontakt{
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+}
+
+
+.messageskontakttekst {
+   
+    color:  #2f4c72;
+    text-align: left;
+    padding: 25px;
+    font-size: 21px;
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+}
+
+.kontaktikony {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 50px;
+     
+    }
 
     
 
