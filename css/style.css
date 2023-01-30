@@ -335,10 +335,11 @@ body {
 .messageskontakttekst {
    
     color:  #2f4c72;
-    text-align: left;
+    text-align: justify;
     padding: 25px;
     font-size: 19px;
-    border-radius: 15px;
+    margin-left:auto;
+    margin-right: auto;
     width: 100%;
     height: auto;
 }
