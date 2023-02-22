@@ -340,8 +340,19 @@ body {
     text-decoration: none;}
 
     .kasia{
-        margin-top: px;
+        margin-top: 10
+        px;
         margin-bottom: 10px;
+    }
+
+    .kasiaxx{
+        margin-top:10
+        px;
+        margin-bottom: 10px;
+        border-color: #2f4c72;
+        border-width: 4px;
+        border-style: solid;
+        border-radius: 8px;
     }
 
     .kaszys{
