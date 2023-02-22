@@ -196,6 +196,20 @@ body {
     margin-top: 0px;  
 }
 
+.messagesteamkontaktxxx{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2f4c72;
+    text-align: center;
+    padding: px;
+    font-size: 23px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 0px;  
+}
+
 .messagesteamkontaktdolny{
     margin-left: auto;
     margin-right: auto;
@@ -423,7 +437,7 @@ body {
     margin-top: 10px;
     background-color:#2f4c72;
     border-radius: 8px;
-    font-size: 25px;
+    font-size: 21px;
 }
 
 .teksth3color{
