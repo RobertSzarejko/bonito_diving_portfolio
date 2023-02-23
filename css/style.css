@@ -30,7 +30,7 @@ body {
         margin-top: 20px;
         margin-bottom: 1px;
         border-radius: 8px;
-        border-color: #2f4c72;
+        border-color: #2aaae2;
             border-width: 2px;
             border-style: solid;
             border-radius: 8px;  
@@ -45,7 +45,8 @@ body {
 .font2{
     font-size: 16px;
     font-weight: 700;
-    text-align: center; 
+    text-align: center;
+    color: #2aaae2; 
 }
 
 .home-img-link1 {
@@ -129,10 +130,10 @@ body {
 
     margin-left: auto;
     margin-right: auto;
-    background-color: #2f4c72;
+    background-color: #0795aa;
     text-align: center;
     padding: px;
-    font-size: 19px;
+    font-size: 15px;
     border-radius: 8px;
     width: 100%;
     height: auto;
@@ -143,7 +144,7 @@ body {
 .messagesteam10{
     margin-left: auto;
     margin-right: auto;
-    background-color: #2f4c72;
+    background-color: #0795aa;
     text-align: center;
     padding: px;
     font-size: 28px;
@@ -157,7 +158,7 @@ body {
 .messagesteamindex{
     margin-left: auto;
     margin-right: auto;
-    background-color: #2f4c72;
+    background-color: #2aaae2;
     text-align: center;
     padding: px;
     font-size: 28px;
@@ -171,7 +172,7 @@ body {
 .messagesteamindexdolny{
     margin-left: auto;
     margin-right: auto;
-    background-color: #2f4c72;
+    background-color: #0795aa;
     text-align: center;
     padding: px;
     font-size: 22px;
@@ -185,7 +186,7 @@ body {
 .messagesteamkontakt{
     margin-left: auto;
     margin-right: auto;
-    background-color: #2f4c72;
+    background-color: #2aaae2;
     text-align: center;
     padding: px;
     font-size: 28px;
@@ -199,7 +200,7 @@ body {
 .messagesteamkontaktxxx{
     margin-left: auto;
     margin-right: auto;
-    background-color: #2f4c72;
+    background-color: #2aaae2;
     text-align: center;
     padding: px;
     font-size: 23px;
@@ -213,7 +214,7 @@ body {
 .messagesteamkontaktdolny{
     margin-left: auto;
     margin-right: auto;
-    background-color: #2f4c72;
+    background-color: #2aaae2;
     text-align: center;
     padding: px;
     font-size: 28px;
@@ -425,23 +426,24 @@ body {
     }
 
 .teksth1color{
-    color: #2f4c72;
+    color: #2aaae2;
     text-align: center;
     margin-top: 10px;
-    font-size: 23px;
+    font-size: 26px;
+    font-weight: 700;
 }
 
 .teksth1colorxxx{
     color: #ffffff;
     text-align: center;
     margin-top: 10px;
-    background-color:#2f4c72;
+    background-color:#2aaae2;
     border-radius: 8px;
     font-size: 21px;
 }
 
 .teksth3color{
-    color: #2f4c72;
+    color: #2aaae2;
     text-align: center;
     margin-top: 10px;
 }
