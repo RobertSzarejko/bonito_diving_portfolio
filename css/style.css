@@ -1,461 +1,327 @@
-body {
+body                {color:  #ffffff;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 56px;}
+
+.container          {margin-left: auto;
+                    margin-right: auto;}
+
+.main               {max-width: 1360px;}
+
+.home-img-link      {width: 100%;
+                    height: auto;
+                    margin-top: 10px;
+                    margin-bottom: 1px;
+                    border-radius: 8px;
+                    border-color: #2f4c72;}
+
+.home-img-linkxxx   {width: 100%;
+                    height: auto;
+                    margin-top: 20px;
+                    margin-bottom: 1px;
+                    border-radius: 8px;
+                    border-color: #2aaae2;
+                    border-width: 2px;
+                    border-style: solid;
+                    border-radius: 8px;}
+
+.font               {font-size: 16px;
+                    font-weight: 500;
+                    text-align: left;}
+
+.font2              {
+                    font-size: 16px;
+                    font-weight: 700;
+                    text-align: center;
+                    color: #2aaae2;}
+
+.home-img-link1     {width: 100%;
+                    height: 198px;
+                    margin-top: 10px;
+                    border-radius: 15px;}
+
+.home-img-link2     {width: 100%;
+                    height:170px;
+                    margin-top: 20px;
+                    border-radius: 20px;
+                    background-color: #cc4a21;}
+
+.home-img-link3     {width: 450px;
+                    height:170px;
+                    margin-top: 20px;
+                    border-radius: 20px;
+                    background-color: #cc4a21;}
+
+.messages           {margin: 10px;
+                    background-color: #2f4c72;
+                    text-align: justify;
+                    padding: 25px;
+                    font-size: 17px;
+                    border-radius: 15px;
+                    width: 100%;
+                    height: auto;}
+
+.messagesteam       {text-align: center;
+                    color: #2f4c72;
+                    font-size: 27px;
+                    border-radius: 10px;
+                    width: 100%;
+                    height: auto;}
+
+.messagesteampolityka 
+                    {margin-top: 10px;
+                    margin-bottom: 10px;
+                    margin-left: auto;
+                    margin-right: auto;
+                    text-align: left;
+                    padding: 25px;
+                    font-size: 19px;
+                    border-radius: 15px;
+                    width: 100%;
+                    height: auto;
+                    color: #2f4c72;}
+
+.messagesteampolityka2 
+                    {color:  #2f4c72;
+                    text-align: left;
+                    padding: 25px;
+                    font-size: 17px;
+                    border-radius: 15px;
+                    width: 100%;
+                    height: auto;}
+
+.messagesteam1      {margin-left: auto;
+                    margin-right: auto;
+                    background-color: #0795aa;
+                    text-align: center;
+                    padding: px;
+                    font-size: 15px;
+                    border-radius: 8px;
+                    width: 100%;
+                    height: auto;
+                    text-decoration: none;
+                    margin-top: 0px;}
+
+.messagesteam10     {margin-left: auto;
+                    margin-right: auto;
+                    background-color: #0795aa;
+                    text-align: center;
+                    padding: px;
+                    font-size: 28px;
+                    border-radius: 8px;
+                    width: 100%;
+                    height: auto;
+                    text-decoration: none;
+                    margin-top: 0px;}
+
+.messagesteamindex  {margin-left: auto;
+                    margin-right: auto;
+                    background-color: #2aaae2;
+                    text-align: center;
+                    padding: px;
+                    font-size: 28px;
+                    border-radius: 8px;
+                    width: 100%;
+                    height: auto;
+                    text-decoration: none;
+                    margin-top: 5px;}
+
+.messagesteamindexdolny
+                    {margin-left: auto;
+                    margin-right: auto;
+                    background-color: #0795aa;
+                    text-align: center;
+                    padding: px;
+                    font-size: 22px;
+                    border-radius: 8px;
+                    width: 100%;
+                    height: auto;
+                    text-decoration: none;
+                    margin-top: 15px;}
+
+.messagesteamkontakt
+                    {margin-left: auto;
+                    margin-right: auto;
+                    background-color: #2aaae2;
+                    text-align: center;
+                    padding: px;
+                    font-size: 28px;
+                    border-radius: 8px;
+                    width: 100%;
+                    height: auto;
+                    text-decoration: none;
+                    margin-top: 0px;}
+
+.messagesteamkontaktxxx
+                    {margin-left: auto;
+                    margin-right: auto;
+                    background-color: #2aaae2;
+                    text-align: center;
+                    padding: px;
+                    font-size: 23px;
+                    border-radius: 8px;
+                    width: 100%;
+                    height: auto;
+                    text-decoration: none;
+                    margin-top: 0px;}
+
+.messagesteamkontaktdolny
+                    {margin-left: auto;
+                    margin-right: auto;
+                    background-color: #2aaae2;
+                    text-align: center;
+                    padding: px;
+                    font-size: 28px;
+                    border-radius: 8px;
+                    width: 100%;
+                    height: auto;
+                    text-decoration: none;
+                    margin-top: 0px;}
+
+.dekoracja          {text-decoration: none;
+                    color: #2f4c72;
+                    font-size: 18px;}
+
+.dekoracja1         {text-decoration: none;
+                    color: #ffffff;
+                    font-size: 15px;}
+
+.logo h1            {font-size: 65px;
+                    text-align: center;
+                    margin-top: 10px;}
+
+.logo a             {color: #2f4c72;
+                    text-decoration: none;}
+
+.logoo a            {color: #2f4c72;
+                    text-decoration: none;
+                    text-align: center;}
     
-    color:  #ffffff;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 56px;
-}
-
-.container {
-    margin-left: auto;
-    margin-right: auto;
-  
-}
-.main{
-    max-width: 1360px;
-}
-
-.home-img-link {
-    width: 100%;
-    height: auto;
-    margin-top: 10px;
-    margin-bottom: 1px;
-    border-radius: 8px;
-    border-color: #2f4c72;
-         
-    }
-
-    .home-img-linkxxx {
-        width: 100%;
-        height: auto;
-        margin-top: 20px;
-        margin-bottom: 1px;
-        border-radius: 8px;
-        border-color: #2aaae2;
-            border-width: 2px;
-            border-style: solid;
-            border-radius: 8px;  
-        }
-
-.font{
-    font-size: 16px;
-    font-weight: 500;
-    text-align: left;
-}
-
-.font2{
-    font-size: 16px;
-    font-weight: 700;
-    text-align: center;
-    color: #2aaae2; 
-}
-
-.home-img-link1 {
-    width: 100%;
-    height: 198px;
-    margin-top: 10px;
-    border-radius: 15px;
-}
-
-
-.home-img-link2 {
-    width: 100%;
-    height:170px;
-    margin-top: 20px;
-    border-radius: 20px;
-    background-color: #cc4a21;
-}
-
-.home-img-link3 {
-    width: 450px;
-    height:170px;
-    margin-top: 20px;
-    border-radius: 20px;
-    background-color: #cc4a21;
-    
-}
-
-.messages {
-    margin: 10px;
-    background-color: #2f4c72;
-    text-align: justify;
-    padding: 25px;
-    font-size: 17px;
-    border-radius: 15px;
-    width: 100%;
-    height: auto;
-}
-
-.messagesteam {
-    
-    
-    
-    text-align: center;
-    color: #2f4c72;
-    
-    font-size: 27px;
-    border-radius: 10px;
-    width: 100%;
-    height: auto;
-}
-
-.messagesteampolityka {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
-    padding: 25px;
-    font-size: 19px;
-    border-radius: 15px;
-    width: 100%;
-    height: auto;
-    color: #2f4c72;
-}
-
-.messagesteampolityka2 {
-   
-    
-  
-    color:  #2f4c72;
-    text-align: left;
-    padding: 25px;
-    font-size: 17px;
-    border-radius: 15px;
-    width: 100%;
-    height: auto;
-}
-
-.messagesteam1 {
-    
-
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #0795aa;
-    text-align: center;
-    padding: px;
-    font-size: 15px;
-    border-radius: 8px;
-    width: 100%;
-    height: auto;
-    text-decoration: none;
-    margin-top: 0px;
-}
-
-.messagesteam10{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #0795aa;
-    text-align: center;
-    padding: px;
-    font-size: 28px;
-    border-radius: 8px;
-    width: 100%;
-    height: auto;
-    text-decoration: none;
-    margin-top: 0px;  
-}
-
-.messagesteamindex{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #2aaae2;
-    text-align: center;
-    padding: px;
-    font-size: 28px;
-    border-radius: 8px;
-    width: 100%;
-    height: auto;
-    text-decoration: none;
-    margin-top: 5px;  
-}
-
-.messagesteamindexdolny{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #0795aa;
-    text-align: center;
-    padding: px;
-    font-size: 22px;
-    border-radius: 8px;
-    width: 100%;
-    height: auto;
-    text-decoration: none;
-    margin-top: 15px;  
-}
-
-.messagesteamkontakt{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #2aaae2;
-    text-align: center;
-    padding: px;
-    font-size: 28px;
-    border-radius: 8px;
-    width: 100%;
-    height: auto;
-    text-decoration: none;
-    margin-top: 0px;  
-}
-
-.messagesteamkontaktxxx{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #2aaae2;
-    text-align: center;
-    padding: px;
-    font-size: 23px;
-    border-radius: 8px;
-    width: 100%;
-    height: auto;
-    text-decoration: none;
-    margin-top: 0px;  
-}
-
-.messagesteamkontaktdolny{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #2aaae2;
-    text-align: center;
-    padding: px;
-    font-size: 28px;
-    border-radius: 8px;
-    width: 100%;
-    height: auto;
-    text-decoration: none;
-    margin-top: 0px;  
-}
-
-
-.dekoracja{
-    text-decoration: none;
-    color: #2f4c72;
-    font-size: 18px;
-    
-}
-
-.dekoracja1{
-    text-decoration: none;
-    color: #ffffff;
-    font-size: 15px;
-    
-}
-
-
-
-
-.logo h1 {
-    font-size: 65px;
-    text-align: center;
-    margin-top: 10px;
-   
-}
-
-.logo a {
-    color: #2f4c72;
-    text-decoration: none;
-}
-
-
-
-.logoo a{
-    color: #2f4c72;
-    text-decoration: none;
-    text-align: center;
-    
-}
-    
-
-.sentences {
-    text-align: center;
-    font-size: 30px;
-    padding: 10px;
-    border-radius: 15px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    color: #2f4c72;
-    font-weight: 600;
-    margin-left: 15px;
-    background-color: #cc4a21;
-}
-
-
+.sentences          {text-align: center;
+                    font-size: 30px;
+                    padding: 10px;
+                    border-radius: 15px;
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                    color: #2f4c72;
+                    font-weight: 600;
+                    margin-left: 15px;
+                    background-color: #cc4a21;}
 
 /* social media */
+.social-link        {display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    color: #2f4c72;
+                    height: 100%;
+                    margin-right: 30px;
+                    background-color: #cc4a21;}
 
-.social-link {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #2f4c72;
-    height: 100%;
-    margin-right: 30px;
-    background-color: #cc4a21;
-}
+.social-links       {margin: 0 10px;
+                    width: 95%;
+                    height: 100%;
+                    min-height: 120px;}
 
-.social-links {
-    margin: 0 10px;
-    width: 95%;
-    height: 100%;
-    min-height: 120px;
-}
-.stopka {
-    font-size: 15px;
-    font-weight: 500;
-    
-    text-align: center;
-}
-
-
-
+.stopka             {font-size: 15px;
+                    font-weight: 500;
+                    text-align: center;}
 
 /* TEAM  */
+.person-description {margin: 25px 5px 10px;
+                    text-align: center;
+                    font-size: 12px;
+                    font-weight: 600;
+                    color: #2f4c72;}
 
-.person-description {
-    margin: 25px 5px 10px;
-    text-align: center;
-    font-size: 12px;
-    font-weight: 600;
-    color: #2f4c72;
-}
+.team-logo          {font-size: 55px;
+                    text-align: center;
+                    margin-top: 5px;}
 
-.team-logo {
-    font-size: 55px;
-    text-align: center;
-    margin-top: 5px;
-}
+.team-logopolityka a 
+                    {font-size: 30px;
+                    text-align: center;
+                    margin-top: 5px;}
 
+.team-logo1         {font-size: 55px;
+                    text-align: center;
+                    margin-top: 5px;}
 
+.team-logo a        {color: #2f4c72;
+                    text-decoration: none;}
 
-.team-logopolityka a {
-    font-size: 30px;
-    text-align: center;
-    margin-top: 5px;
-}
+.team-logo1 a       {color: #2f4c72;
+                    text-decoration: none;}
 
+.person1            {margin-top: 20px;}
 
+.person1 a          {color: #2f4c72;
+                    text-decoration: none;}
 
-.team-logo1 {
-    font-size: 55px;
-    text-align: center;
-    margin-top: 5px;
-}
+.team-logopolityka  {font-size: 30px;
+                    text-align: center;
+                    margin-top: 5px;}
 
-.team-logo a {
-    color: #2f4c72;
-    text-decoration: none;
-}
+.team-logopolityka a 
+                    {color: #2f4c72;
+                    text-decoration: none;}
 
-.team-logo1 a {
-    color: #2f4c72;
-    text-decoration: none;
-}
+.kasia              {margin-top: 10px;
+                    margin-bottom: 10px;}
 
-.person1{
-   margin-top: 20px;
-   
-}
-.person1 a {
-    color: #2f4c72;
-    text-decoration: none;
-}
+.kasiaxx            {margin-top:10px;
+                    margin-bottom: 10px;}
 
-.team-logopolityka {
-    font-size: 30px;
-    text-align: center;
-    margin-top: 5px;
-}
-.team-logopolityka a { 
-    color: #2f4c72;
-    text-decoration: none;}
+.kaszys             {margin-top: 0px;
+                    margin-bottom: 0px;
+                    color: #2f4c72;
+                    font-size: 23px;
+                    text-align: center;}
 
-    .kasia{
-        margin-top: 10
-        px;
-        margin-bottom: 10px;
-    }
+.zolw               {width: 100%;
+                    height: auto;
+                    margin-top: 5px;
+                    margin-bottom: 10px;
+                    border-radius: 20px;}
 
-    .kasiaxx{
-        margin-top:10
-        px;
-        margin-bottom: 10px;
-        
-    }
+.fotakontakt        {width: 100%;
+                    height: auto;
+                    margin-top: 15px;
+                    margin-bottom: 15px;
+                    border-radius: 20px;}
 
-    .kaszys{
-        margin-top: 0px;
-        margin-bottom: 0px;
-        color: #2f4c72;
-        font-size: 23px;
-        text-align: center;
-    }
-.zolw{
-    width: 100%;
-    height: auto;
-    margin-top: 5px;
-    margin-bottom: 10px;
-    border-radius: 20px;
-}
+.messageskontakttekst 
+                    {color:  #2f4c72;
+                    text-align: justify;
+                    padding: 25px;
+                    font-size: 19px;
+                    margin-left:auto;
+                    margin-right: auto;
+                    width: 100%;
+                    height: auto;}
 
-.fotakontakt{
-    width: 100%;
-    height: auto;
-    margin-top: 15px;
-    margin-bottom: 15px;
-    border-radius: 20px;
-}
+.kontaktikony       {width: 100%;
+                    height: auto;
+                    margin-top: 10px;
+                    margin-bottom: 30px;}
 
+.teksth1color       {color: #2aaae2;
+                    text-align: center;
+                    margin-top: 10px;
+                    font-size: 26px;
+                    font-weight: 700;}
 
-.messageskontakttekst {
-   
-    color:  #2f4c72;
-    text-align: justify;
-    padding: 25px;
-    font-size: 19px;
-    margin-left:auto;
-    margin-right: auto;
-    width: 100%;
-    height: auto;
-}
+.teksth1colorxxx    {color: #ffffff;
+                    text-align: center;
+                    margin-top: 10px;
+                    background-color:#2aaae2;
+                    border-radius: 8px;
+                    font-size: 21px;}
 
-.kontaktikony {
-    width: 100%;
-    height: auto;
-    margin-top: 10px;
-    margin-bottom: 30px;
-     
-    }
+.teksth3color       {color: #2aaae2;
+                    text-align: center;
+                    margin-top: 10px;}
 
-.teksth1color{
-    color: #2aaae2;
-    text-align: center;
-    margin-top: 10px;
-    font-size: 26px;
-    font-weight: 700;
-}
-
-.teksth1colorxxx{
-    color: #ffffff;
-    text-align: center;
-    margin-top: 10px;
-    background-color:#2aaae2;
-    border-radius: 8px;
-    font-size: 21px;
-}
-
-.teksth3color{
-    color: #2aaae2;
-    text-align: center;
-    margin-top: 10px;
-}
-
-.tekstparagrafcolor{
-    color: #2f4c72;
-    font-size: 18px;
-    text-align: justify;
-    margin-top: 15px;
-    
-}
-    
-
-
-
+.tekstparagrafcolor
+                    {color: #2f4c72;
+                    font-size: 18px;
+                    text-align: justify;
+                    margin-top: 15px;}
