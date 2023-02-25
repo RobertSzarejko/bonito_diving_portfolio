@@ -185,6 +185,10 @@ body                {color:  #ffffff;
                     color: #ffffff;
                     font-size: 15px;}
 
+.dekoracja10        {text-decoration: none;
+                    color: #ffffff;
+                    font-size: 23px;}
+
 .logo h1            {font-size: 65px;
                     text-align: center;
                     margin-top: 10px;}
@@ -302,6 +306,11 @@ body                {color:  #ffffff;
                     height: auto;
                     margin-top: 10px;
                     margin-bottom: 30px;}
+
+.kontaktikonyxxx    {width: 100%;
+                    height: auto;
+                    margin-top: 10px;
+                    margin-bottom: 10px;}
 
 .teksth1color       {color: #2aaae2;
                     text-align: center;
