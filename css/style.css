@@ -99,7 +99,7 @@ body                {color:  #ffffff;
                     width: 100%;
                     height: auto;
                     text-decoration: none;
-                    margin-top: 0px;}
+                    margin-top: 20px;}
 
 .messagesteam10     {margin-left: auto;
                     margin-right: auto;
@@ -139,6 +139,19 @@ body                {color:  #ffffff;
                     margin-top: 15px;}
 
 .messagesteamkontakt
+                    {margin-left: auto;
+                    margin-right: auto;
+                    background-color: #2aaae2;
+                    text-align: center;
+                    padding: px;
+                    font-size: 28px;
+                    border-radius: 8px;
+                    width: 100%;
+                    height: auto;
+                    text-decoration: none;
+                    margin-top: 0px;}
+
+.messagesteamkontakt2
                     {margin-left: auto;
                     margin-right: auto;
                     background-color: #2aaae2;
@@ -318,6 +331,12 @@ body                {color:  #ffffff;
                     font-size: 26px;
                     font-weight: 700;}
 
+.teksth1colorran    {color: #2aaae2;
+                    text-align: center;
+                    margin-top: 30px;
+                    font-size: 26px;
+                    font-weight: 700;}
+
 .teksth1colorxxx    {color: #ffffff;
                     text-align: center;
                     margin-top: 10px;
@@ -333,4 +352,7 @@ body                {color:  #ffffff;
                     {color: #2f4c72;
                     font-size: 18px;
                     text-align: justify;
-                    margin-top: 15px;}
+                    margin-top: 5px;}
+
+.lista              {color: #2f4c72;
+                    font-size: 18px;}
