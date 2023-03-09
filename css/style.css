@@ -264,4 +264,7 @@ body                {color:  #ffffff;
                     margin-top: 5px;}
 
 .lista              {color: #2f4c72;
-                    font-size: 18px;}                
+                    font-size: 18px;}
+
+#bookero-plugin .bookero-sticky-plugin-toggle
+                    {border-top-left-radius: 12px !important;}
