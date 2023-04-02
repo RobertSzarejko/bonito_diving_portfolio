@@ -211,10 +211,14 @@ body                {color:  #ffffff;
 
 .team-logopolityka  {font-size: 30px;
                     text-align: center;
-                    margin-top: 5px;}
+                    margin-top: 5px;
+                    background-color: #2aaae2;
+                    border-radius: 8px;
+                    margin-bottom: 20px;
+                    }
 
 .team-logopolityka a 
-                    {color: #2f4c72;
+                    {color: #ffffff;
                     text-decoration: none;}
 
 .kasia              {margin-top: 10px;
@@ -265,6 +269,14 @@ body                {color:  #ffffff;
 
 .lista              {color: #2f4c72;
                     font-size: 18px;}
+
+.home-img-link      {width: 100%;
+                    height: auto;
+                    margin-top: 10px;
+                    margin-bottom: 1px;
+                    border-radius: 8px;
+                    border-color: #2f4c72;}
+
 
 #bookero-plugin .bookero-sticky-plugin-toggle
                     {border-top-left-radius: 12px !important;}
