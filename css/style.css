@@ -277,24 +277,11 @@ body                {color:  #ffffff;
                     border-radius: 8px;
                     border-color: #2f4c72;}
 
-                    /* DODANA ANIMACJA8*/
-
-                    .bg_img{
-                        position: absolute;/*dzeki absolute nie bedzie przesuwał elementu */
-                        z-index: 1;
-                       
-                    }
-                    .bg_img--button{
-                        position: absolute;/*dzeki absolute nie bedzie przesuwał elementu */
-                        top: 0%;/*ustawia element u gory */
-                        right: 0%;
-                        animation: slidedown 38s linear infinite;/*splywa z gory na dół a infinite sprawia ze to sie powtarza lineat płynnie przechodzi */
-                        height: 33vh; /* nadajemy obiektowi zawsze wysokość 30% ekranu lub jak chcemy */ 
-                    }
-                    @keyframes slidedown{/* animacja */
-                        from {transform: translateX(-200vh)}
-                        to {transform: translateX(100vh)}
-                    }
+@keyframes animacja{from{transform: translateX(-40px);}
+                    to{transform: translateX(40px);}}
+                    
+.animacja{animation: alternate 2.5s 2s both infinite ease-in-out animacja;}
+                      
 
 #bookero-plugin .bookero-sticky-plugin-toggle
-                    {border-top-left-radius: 12px !important;}
+{border-top-left-radius: 12px !important;}
