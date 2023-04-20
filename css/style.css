@@ -288,7 +288,8 @@ body                {color:  #ffffff;
 
 {.teksth1color{font-size: 22px;}
 
-.messagesteamindex{font-size: 25px;  }
+.messagesteamindex{font-size: 25px;
+    margin-top: 15px;  }
 
 .tekstparagrafcolor{font-size: 15px;
                     margin-top: 20px;
