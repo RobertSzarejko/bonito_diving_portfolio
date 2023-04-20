@@ -283,12 +283,15 @@ body                {color:  #ffffff;
 .animacja{animation: alternate 2.5s 2s both infinite ease-in-out animacja;}
 
 /* If the screen size is 600px wide or less, set the font-size of <div> to 15px */
-@media screen and (max-width: 600px) {
-	.teksth1color{
-	  font-size: 22px;}
-    .messagesteamindex{
-      font-size: 25px;  
-    }
+
+@media screen and (max-width: 600px)
+
+{.teksth1color{font-size: 22px;}
+
+.messagesteamindex{font-size: 25px;  }
+
+.tekstparagrafcolor{font-size: 15px;
+margin-top: 20px;}
     
     
     }
