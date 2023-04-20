@@ -285,9 +285,13 @@ body                {color:  #ffffff;
 /* If the screen size is 600px wide or less, set the font-size of <div> to 15px */
 @media screen and (max-width: 600px) {
 	.teksth1color{
-	  font-size: 22px;
-	  
-	}}
+	  font-size: 22px;}
+    .messagesteamindex{
+      font-size: 25px;  
+    }
+    
+    
+    }
                       
 
 #bookero-plugin .bookero-sticky-plugin-toggle
