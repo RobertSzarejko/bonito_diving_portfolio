@@ -281,6 +281,13 @@ body                {color:  #ffffff;
                     to{transform: translateX(40px);}}
                     
 .animacja{animation: alternate 2.5s 2s both infinite ease-in-out animacja;}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 15px */
+@media screen and (max-width: 600px) {
+	.teksth1color{
+	  font-size: 22px;
+	  
+	}}
                       
 
 #bookero-plugin .bookero-sticky-plugin-toggle
