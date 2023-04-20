@@ -291,7 +291,8 @@ body                {color:  #ffffff;
 .messagesteamindex{font-size: 25px;  }
 
 .tekstparagrafcolor{font-size: 15px;
-margin-top: 20px;}
+                    margin-top: 20px;
+                font-weight: 500;}
     
     
     }
