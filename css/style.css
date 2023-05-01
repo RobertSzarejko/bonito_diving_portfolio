@@ -313,7 +313,9 @@ body                {color:  #ffffff;
 
 .tekstparagrafcolor{font-size: 15px;
                     margin-top: 20px;
-                    font-weight: 500;}
+                    font-weight: 500;
+                margin-left: 15px;
+            margin-right: 15px;}
                     
 .messagesteamindexdolny{font-size: 21px;}
 .teksth1colorM{font-size: 20px;}
