@@ -213,22 +213,36 @@
                 
         </div>
         <script type="text/javascript">
+
+            var bookero_default_values = {
+            customer: {
+            email: {
+            value: '',
+            readonly: false},
+            phone: {
+            value: '',
+            readonly: false},
+            name: {
+            value: '',
+            readonly: false}},
+            
+            params: {11706: 'Pragmati'}};
+            
             var bookero_config = {
-              id: '7ZPgL8l7a1Ia',
-              container: 'bookero',
-              type: 'sticky',
-              position: 'bottom-right',
-              plugin_css: true,
-              lang: 'pl'
-            };
-          
+            id: '7ZPgL8l7a1Ia',
+            container: 'bookero',
+            type: 'sticky',
+            position: 'bottom-right',
+            plugin_css: true,
+            lang: 'pl'};
+            
+            
             (function() {
             var d = document, s = d.createElement('script');
             s.src = 'https://cdn.bookero.pl/plugin/v2/js/bookero-compiled.js';
-            d.body.appendChild(s);
-            })();
-          </script>
-       
+            d.body.appendChild(s);})();
+            
+        </script>
          
     </body>
 
