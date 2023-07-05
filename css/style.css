@@ -16,7 +16,7 @@ body                {color:  #ffffff;
 
 .home-img-linkxxx   {width: 100%;
                     height: auto;
-                    margin-top: 20px;
+                    margin-top: 30px;
                     margin-bottom: 1px;
                     border-radius: 8px;
                     border-color: #2aaae2;
@@ -94,7 +94,7 @@ body                {color:  #ffffff;
                     width: 100%;
                     height: auto;
                     text-decoration: none;
-                    margin-top: 5px;}
+                    margin-top: 15px;}
 
 .messagesteamindexdolny
                     {margin-left: auto;
@@ -241,13 +241,20 @@ body                {color:  #ffffff;
 
 .kontaktikony       {width: 100%;
                     height: auto;
-                    margin-top: 10px;
-                    margin-bottom: 30px;}
+                    margin-top: 0px;
+                    margin-bottom: 0px;}
 
 .teksth1color       {color: #2aaae2;
                     text-align: center;
                     margin-top: 10px;
                     font-size: 26px;
+                    font-weight: 700;
+                    padding: 10px;}
+
+.teksth1colorA      {color: #2aaae2;
+                    text-align: center;
+                    margin-top: 0px;
+                    font-size: 25px;
                     font-weight: 700;
                     padding: 10px;}
 
