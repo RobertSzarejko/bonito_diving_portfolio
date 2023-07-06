@@ -1,6 +1,9 @@
 body                {color:  #ffffff;
                     font-family: Arial, Helvetica, sans-serif;
-                    font-size: 24px;}
+                    font-size: 24px;
+                    max-width: 1100px;
+                    margin-left: auto;
+                    margin-right: auto;}
 
 .container          {margin-left: auto;
                     margin-right: auto;}
@@ -20,7 +23,7 @@ body                {color:  #ffffff;
                     margin-bottom: 1px;
                     border-radius: 8px;
                     border-color: #2aaae2;
-                    border-width: 2px;
+                    border-width: 1px;
                     border-style: solid;
                     border-radius: 8px;}
 
@@ -70,7 +73,7 @@ body                {color:  #ffffff;
                     height: auto;
                     text-decoration: none;
                     margin-top: 20px;
-                margin-bottom: 80px;}
+                    margin-bottom: 80px;}
 
 .messagesteam10     {margin-left: auto;
                     margin-right: auto;
@@ -331,11 +334,12 @@ body                {color:  #ffffff;
                     
 .messagesteamindexdolny{font-size: 21px;}
 .teksth1colorM{font-size: 20px;}
-.team-logo{font-size: 44px;}
-    
-    
-    }
+.team-logo{font-size: 44px;}}
+
+
                       
 
 #bookero-plugin .bookero-sticky-plugin-toggle
-{border-top-left-radius: 12px !important;}
+{border-top-left-radius: 12px !important;
+    background-color: orangered !important;
+}
