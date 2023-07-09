@@ -1,320 +1,320 @@
 body                {color:  #ffffff;
-                    font-family: Arial, Helvetica, sans-serif;
-                    font-size: 24px;
-                    max-width: 1100px;
-                    margin-left: auto;
-                    margin-right: auto;}
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;}
 
 .container          {margin-left: auto;
-                    margin-right: auto;}
+    margin-right: auto;}
 
 
 
 .home-img-link      {width: auto;
-                    height: auto;
-                    margin-top: 10px;
-                    margin-bottom: 1px;
-                    border-radius: 8px;
-                    border-color: #2f4c72;}
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    border-radius: 8px;
+    border-color: #2f4c72;}
 
 .home-img-linkxxx   {width: 100%;
-                    height: auto;
-                    margin-top: 30px;
-                    margin-bottom: 1px;
-                    border-radius: 8px;
-                    border-color: #2aaae2;
-                    border-width: 1px;
-                    border-style: solid;
-                    border-radius: 8px;}
+    height: auto;
+    margin-top: 30px;
+    margin-bottom: 1px;
+    border-radius: 8px;
+    border-color: #2aaae2;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;}
 
 .font               {font-size: 16px;
-                    font-weight: 500;
-                    text-align: left;}
+    font-weight: 500;
+    text-align: left;}
 
 .font2              {
-                    font-size: 16px;
-                    font-weight: 700;
-                    text-align: center;
-                    color: #2aaae2;}
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    color: #2aaae2;}
 
 .messagesteampolityka 
-                    {margin-top: 10px;
-                    margin-bottom: 10px;
-                    margin-left: auto;
-                    margin-right: auto;
-                    text-align: left;
-                    padding: 25px;
-                    font-size: 19px;
-                    border-radius: 15px;
-                    width: 100%;
-                    height: auto;
-                    color: #2f4c72;}
+    {margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding: 25px;
+    font-size: 19px;
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+    color: #2f4c72;}
 
 .messagesteam1      {margin-left: auto;
-                    margin-right: auto;
-                    background-color: #0795aa;
-                    text-align: center;
-                    padding: px;
-                    font-size: 15px;
-                    border-radius: 8px;
-                    width: 100%;
-                    height: auto;
-                    text-decoration: none;
-                    margin-top: 20px;}
+    margin-right: auto;
+    background-color: #0795aa;
+    text-align: center;
+    padding: px;
+    font-size: 15px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 20px;}
 
 .messagesteam1bot   {margin-left: auto;
-                    margin-right: auto;
-                    background-color: #0795aa;
-                    text-align: center;
-                    padding: px;
-                    font-size: 15px;
-                    border-radius: 8px;
-                    width: 100%;
-                    height: auto;
-                    text-decoration: none;
-                    margin-top: 20px;
-                    margin-bottom: 80px;}
+    margin-right: auto;
+    background-color: #0795aa;
+    text-align: center;
+    padding: px;
+    font-size: 15px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 80px;}
 
 .messagesteam10     {margin-left: auto;
-                    margin-right: auto;
-                    background-color: #0795aa;
-                    text-align: center;
-                    padding: px;
-                    font-size: 28px;
-                    border-radius: 8px;
-                    width: 100%;
-                    height: auto;
-                    text-decoration: none;
-                    margin-top: 0px;}
+    margin-right: auto;
+    background-color: #0795aa;
+    text-align: center;
+    padding: px;
+    font-size: 28px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 0px;}
 
 .messagesteamindex  {margin-left: auto;
-                    margin-right: auto;
-                    background-color: #2aaae2;
-                    text-align: center;
-                    padding: px;
-                    font-size: 28px;
-                    border-radius: 8px;
-                    width: 100%;
-                    height: auto;
-                    text-decoration: none;
-                    margin-top: 15px;}
+    margin-right: auto;
+    background-color: #2aaae2;
+    text-align: center;
+    padding: px;
+    font-size: 28px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 15px;}
 
 .messagesteamindexdolny
-                    {margin-left: auto;
-                    margin-right: auto;
-                    background-color: #0795aa;
-                    text-align: center;
-                    padding: px;
-                    font-size: 22px;
-                    border-radius: 8px;
-                    width: 100%;
-                    height: auto;
-                    text-decoration: none;
-                    margin-top: 15px;}
+    {margin-left: auto;
+    margin-right: auto;
+    background-color: #0795aa;
+    text-align: center;
+    padding: px;
+    font-size: 22px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 15px;}
 
 .messagesteamkontakt
-                    {margin-left: auto;
-                    margin-right: auto;
-                    background-color: #2aaae2;
-                    text-align: center;
-                    padding: px;
-                    font-size: 28px;
-                    border-radius: 8px;
-                    width: 100%;
-                    height: auto;
-                    text-decoration: none;
-                    margin-top: 15px;
-            margin-bottom: 0px;}
+    {margin-left: auto;
+    margin-right: auto;
+    background-color: #2aaae2;
+    text-align: center;
+    padding: px;
+    font-size: 28px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 15px;
+margin-bottom: 0px;}
 
 .messagesteamkontakt2
-                    {margin-left: auto;
-                    margin-right: auto;
-                    background-color: #2aaae2;
-                    text-align: center;
-                    padding: px;
-                    font-size: 28px;
-                    border-radius: 8px;
-                    width: 100%;
-                    height: auto;
-                    text-decoration: none;
-                    margin-top: 0px;}
+    {margin-left: auto;
+    margin-right: auto;
+    background-color: #2aaae2;
+    text-align: center;
+    padding: px;
+    font-size: 28px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 0px;}
 
 .messagesteamkontaktxxx
-                    {margin-left: auto;
-                    margin-right: auto;
-                    background-color: #2aaae2;
-                    text-align: center;
-                    padding: px;
-                    font-size: 23px;
-                    border-radius: 8px;
-                    width: 100%;
-                    height: auto;
-                    text-decoration: none;
-                    margin-top: 0px;}
+    {margin-left: auto;
+    margin-right: auto;
+    background-color: #2aaae2;
+    text-align: center;
+    padding: px;
+    font-size: 23px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 0px;}
 
 .messagesteamkontaktdolny
-                    {margin-left: auto;
-                    margin-right: auto;
-                    background-color: #2aaae2;
-                    text-align: center;
-                    padding: px;
-                    font-size: 28px;
-                    border-radius: 8px;
-                    width: 100%;
-                    height: auto;
-                    text-decoration: none;
-                    margin-top: 0px;
-                margin-bottom: 60px;}
+    {margin-left: auto;
+    margin-right: auto;
+    background-color: #2aaae2;
+    text-align: center;
+    padding: px;
+    font-size: 28px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 0px;
+margin-bottom: 60px;}
 
 .messagesteamkontaktdolny2
-                    {margin-left: auto;
-                    margin-right: auto;
-                    background-color: #2aaae2;
-                    text-align: center;
-                    padding: px;
-                    font-size: 28px;
-                    border-radius: 8px;
-                    width: 100%;
-                    height: auto;
-                    text-decoration: none;
-                    margin-bottom: 80px;
-                    margin-top: 0px;}                    
+    {margin-left: auto;
+    margin-right: auto;
+    background-color: #2aaae2;
+    text-align: center;
+    padding: px;
+    font-size: 28px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-bottom: 80px;
+    margin-top: 0px;}                    
 
 .dekoracja          {text-decoration: none;
-                    color: #2f4c72;
-                    font-size: 18px;}
+    color: #2f4c72;
+    font-size: 18px;}
 
 .dekoracja10        {text-decoration: none;
-                    color: #ffffff;
-                    font-size: 23px;}
+    color: #ffffff;
+    font-size: 23px;}
 
 .dekoracja1         {text-decoration: none;
-                    color: #ffffff;
-                    font-size: 23px;}
+    color: #ffffff;
+    font-size: 23px;}
 
 .dekoracjaXXX       {text-decoration: none;
-                    color: #ffffff;
-                    font-size: 23px;}
+    color: #ffffff;
+    font-size: 23px;}
 
 .dekoracja2         {text-decoration: none;
-                    color: #ffffff;
-                    font-size: 23px;}
+    color: #ffffff;
+    font-size: 23px;}
 
 .person-description {margin: 25px 5px 10px;
-                    text-align: center;
-                    font-size: 12px;
-                    font-weight: 600;
-                    color: #2f4c72;}
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+    color: #2f4c72;}
 
 .team-logo          {font-size: 55px;
-                    text-align: center;
-                    margin-top: 5px;}
+    text-align: center;
+    margin-top: 5px;}
 
 .team-logopolityka a 
-                    {font-size: 30px;
-                    text-align: center;
-                    margin-top: 5px;}
+    {font-size: 30px;
+    text-align: center;
+    margin-top: 5px;}
 
 .team-logo a        {color: #2f4c72;
-                    text-decoration: none;}
+    text-decoration: none;}
 
 .team-logopolityka  {font-size: 30px;
-                    text-align: center;
-                    margin-top: 5px;
-                    background-color: #2aaae2;
-                    border-radius: 8px;
-                    margin-bottom: 20px;
-                    }
+    text-align: center;
+    margin-top: 5px;
+    background-color: #2aaae2;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    }
 
 .team-logopolityka a 
-                    {color: #ffffff;
-                    text-decoration: none;}
+    {color: #ffffff;
+    text-decoration: none;}
 
 .kasia              {margin-top: 10px;
-                    margin-bottom: 10px;}
+    margin-bottom: 10px;}
 
 .kasiaxx            {margin-top:10px;
-                    margin-bottom: 10px;}
+    margin-bottom: 10px;}
 
 .zolw               {width: 100%;
-                    height: auto;
-                    margin-top: 5px;
-                    margin-bottom: 10px;
-                    border-radius: 20px;}
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 20px;}
 
 .kontaktikony       {width: 100%;
-                    height: auto;
-                    margin-top: 0px;
-                    margin-bottom: 0px;}
+    height: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;}
 
 .teksth1color       {color: #2aaae2;
-                    text-align: center;
-                    margin-top: 10px;
-                    font-size: 26px;
-                    font-weight: 700;
-                    padding: 10px;}
+    text-align: center;
+    margin-top: 10px;
+    font-size: 26px;
+    font-weight: 700;
+    padding: 10px;}
 
 .teksth1colorA      {color: #2aaae2;
-                    text-align: center;
-                    margin-top: 0px;
-                    font-size: 25px;
-                    font-weight: 700;
-                    padding: 10px;}
+    text-align: center;
+    margin-top: 0px;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px;}
 
 .teksth1colorM      {color: ffffff;
-                    text-align: center;
-                    margin-top: 10px;
-                    font-size: 26px;
-                    font-weight: 700;
-                    padding: 5px;
-                    margin-bottom: 20px;
-                    text-align: center;}
-                    
+    text-align: center;
+    margin-top: 10px;
+    font-size: 26px;
+    font-weight: 700;
+    padding: 5px;
+    margin-bottom: 20px;
+    text-align: center;}
+    
 .teksth1colorM2     {color: #2aaae2;
-                    text-align: center;
-                    margin-top: 10px;
-                    font-size: 20px;
-                    font-weight: 700;
-                    padding: 5px;
-                    margin-bottom: 20px;
-                    text-align: center;} 
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 5px;
+    margin-bottom: 20px;
+    text-align: center;} 
 
 .teksth1colorran    {color: #2aaae2;
-                    text-align: center;
-                    margin-top: 30px;
-                    font-size: 26px;
-                    font-weight: 700;}
+    text-align: center;
+    margin-top: 30px;
+    font-size: 26px;
+    font-weight: 700;}
 
 .teksth1colorxxx    {color: #ffffff;
-                    text-align: center;
-                    margin-top: 10px;
-                    background-color:#2aaae2;
-                    border-radius: 8px;
-                    font-size: 21px;}
+    text-align: center;
+    margin-top: 10px;
+    background-color:#2aaae2;
+    border-radius: 8px;
+    font-size: 21px;}
 
 .teksth3color       {color: #2aaae2;
-                    text-align: center;
-                    margin-top: 10px;}
+    text-align: center;
+    margin-top: 10px;}
 
 .tekstparagrafcolor
-                    {color: #2f4c72;
-                    font-size: 18px;
-                    text-align: justify;
-                    margin-top: 5px;}
+    {color: #2f4c72;
+    font-size: 18px;
+    text-align: justify;
+    margin-top: 5px;}
 
 .lista              {color: #2f4c72;
-                    font-size: 18px;}
+    font-size: 18px;}
 
 .home-img-link      {width: 100%;
-                    height: auto;
-                    margin-top: 10px;
-                    margin-bottom: 1px;
-                    border-radius: 8px;
-                    border-color: #2f4c72;}
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    border-radius: 8px;
+    border-color: #2f4c72;}
 
 @keyframes animacja{from{transform: translateX(-40px);}
-                    to{transform: translateX(40px);}}
-                    
+    to{transform: translateX(40px);}}
+    
 .animacja{animation: alternate 2.5s 2s both infinite ease-in-out animacja;}
 
 /* If the screen size is 600px wide or less, set the font-size of <div> to 15px */
@@ -324,22 +324,22 @@ body                {color:  #ffffff;
 {.teksth1color{font-size: 22px;}
 
 .messagesteamindex{font-size: 25px;
-    margin-top: 15px;  }
+margin-top: 15px;  }
 
 .tekstparagrafcolor{font-size: 15px;
-                    margin-top: 20px;
-                    font-weight: 500;
-                    margin-left: 10px;
-                    margin-right: 10px;}
-                    
+    margin-top: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-right: 10px;}
+    
 .messagesteamindexdolny{font-size: 21px;}
 .teksth1colorM{font-size: 20px;}
 .team-logo{font-size: 44px;}}
 
 
-                      
+      
 
 #bookero-plugin .bookero-sticky-plugin-toggle
 {border-top-left-radius: 12px !important;
-    background-color: orangered !important;
+background-color: orangered !important;
 }
