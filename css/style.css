@@ -43,8 +43,9 @@ body                {color:  #ffffff;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    justify-content: center;
     padding: 25px;
-    font-size: 19px;
+    font-size: 16px;
     border-radius: 15px;
     width: 100%;
     height: auto;
@@ -97,6 +98,7 @@ body                {color:  #ffffff;
     border: 2px solid #0795aa;
     border-radius: 10px;
     color: #0795aa;
+    margin-bottom: 30px;
 }
 
 .hero-btny1:hover
@@ -109,6 +111,30 @@ body                {color:  #ffffff;
     border-radius: 10px;
     color: #fff;
     background-color: orangered;
+}
+
+.hero-btny1OR{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+    border: 2px solid orangered;
+    border-radius: 10px;
+    color: orangered;
+    margin-bottom: 30px;
+
+}
+
+.hero-btny1OR:hover{
+
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+    border: 2px solid orangered;
+    border-radius: 10px;
+    color: #fff;
+    background-color: orangered;   
 }
 
 
@@ -285,6 +311,13 @@ margin-bottom: 60px;}
     font-weight: 700;
     padding: 10px;}
 
+    .teksth1colorOR       {color: orangered;
+        text-align: center;
+        margin-top: 10px;
+        font-size: 26px;
+        font-weight: 700;
+        padding: 10px;}
+
 .teksth1colorA      {color: #2aaae2;
     text-align: center;
     margin-top: 0px;
@@ -362,6 +395,16 @@ margin-top: 15px;  }
     font-weight: 500;
     margin-left: 10px;
     margin-right: 10px;}
+
+    .team-logopolityka  {font-size: 110px;
+        text-align: center;
+        margin-top: 5px;
+        background-color: #2aaae2;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        }
     
 .messagesteamindexdolny{font-size: 21px;}
 .teksth1colorM{font-size: 20px;}
