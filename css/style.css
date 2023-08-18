@@ -180,6 +180,25 @@ body                {color:  #ffffff;
     text-decoration: none;
     margin-top: 15px;}
 
+.zacznij {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2aaae2;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    margin-top: 15px;}
+
+    .zacznij h1 {
+        font-size: 20px;
+    }
+
+
+
 .messagesteamindexdolny
     {margin-left: auto;
     margin-right: auto;
@@ -429,6 +448,25 @@ margin-top: 15px;  }
         margin-left: 20px;
         margin-right: 20px;
         }
+
+        .zacznij {
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #2aaae2;
+            text-align: center;
+            padding: 10px ;
+            font-size: 18px;
+            border-radius: 8px;
+            width: 100%;
+            height: auto;
+            text-decoration: none;
+            margin-top: 15px;
+        margin-bottom: 20px;}
+        
+            .zacznij h1 {
+                font-size: 18px;
+                text-align: center;
+            }
     
 .messagesteamindexdolny{font-size: 21px;}
 .teksth1colorM{font-size: 20px;}
